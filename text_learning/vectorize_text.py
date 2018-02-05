@@ -22,7 +22,7 @@ from parse_out_email_text import parseOutText
     The data is stored in lists and packed away in pickle files at the end.
 """
 
-sw =["sara", "shackleton", "chris", "germani"]
+sw =["sara", "shackleton", "chris", "germani","sshacklensf","cgermannsf"]
 from_sara  = open("from_sara.txt", "r")
 from_chris = open("from_chris.txt", "r")
 
